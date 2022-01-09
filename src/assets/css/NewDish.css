@@ -1,0 +1,27 @@
+#_root {
+    background-color: white;
+    z-index: 7;
+    width: 400px;
+    height: 500px;
+    position: fixed;
+    display: block;
+    right:20px;
+    bottom: 0px;
+    padding: 0px;
+}
+._Header {
+    height: 50px;
+    background-color: dimgrey;
+}
+._Footer {
+    bottom: 0px;
+    position: absolute;
+    height: 50px;
+    background-color: dimgrey;
+}
+.Qty {
+    max-width: 30%;
+}
+.Estimate {
+    max-width: 30%;
+}
